@@ -17,7 +17,7 @@ import static org.mockito.Matchers.any;
 /**
  * Created by fandygotama on 3/12/16.
  */
-public class ShoppingDiskDataStoreTest extends ApplicationTestCase {
+public class ShoppingDiskDataStoreTest {
 
     @Mock
     private ResponseCache mMockResponseCache;

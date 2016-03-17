@@ -19,7 +19,7 @@ import static org.mockito.Matchers.any;
 /**
  * Created by fandygotama on 3/12/16.
  */
-public class ShoppingRepositoryImplTest extends ApplicationTestCase {
+public class ShoppingRepositoryImplTest {
 
     @Mock
     private ShoppingDataStoreFactory mFactory;

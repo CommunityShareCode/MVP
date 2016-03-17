@@ -20,7 +20,7 @@ import static org.mockito.Mockito.verify;
 /**
  * Created by fandygotama on 3/12/16.
  */
-public class ShoppingApiDataStoreTest extends ApplicationTestCase {
+public class ShoppingApiDataStoreTest {
 
     @Mock
     private ShoppingService mMockService;

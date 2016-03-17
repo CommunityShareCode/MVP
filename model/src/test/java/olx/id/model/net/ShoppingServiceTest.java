@@ -17,7 +17,7 @@ import retrofit.converter.JacksonConverter;
 /**
  * Created by fandygotama on 3/12/16.
  */
-public class ShoppingServiceTest extends ApplicationTestCase {
+public class ShoppingServiceTest {
 
     private static final String MOCK_CALLNAME = "FindPopularItems";
     private static final String MOCK_RESONSE_ENCODING = "JSON";
